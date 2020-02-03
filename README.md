@@ -1,6 +1,6 @@
 # Personal Blog
 
-This is my first project, which is a personal blog, for the Front End Developer Nanodegree program from Udacity.
+This is my first project for the Front End Developer Nanodegree program from Udacity.
 
 ## License
 MIT License
