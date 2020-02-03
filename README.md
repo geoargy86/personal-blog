@@ -1,4 +1,4 @@
-# Personal Blog
+# Personal Blog Website
 
 This is my first project for the Front End Developer Nanodegree program from Udacity.
 
