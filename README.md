@@ -11,6 +11,6 @@ This is my first project for the Front End Developer Nanodegree program from Uda
 
 Simple blog website using HTML and CSS.
 
-## Credit
+## Credits
 
 Udacity
